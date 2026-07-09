@@ -13,4 +13,4 @@ Klik file berikut ini untuk melihat portfolio saya.
 - Email : adamrizkyy99@gmail.com
 - Instagram : @adamaananta
 
-- TERIMA KASIH -
+- TERIMA KASIH 
