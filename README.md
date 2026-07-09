@@ -6,7 +6,7 @@ Saya seorang mahasiswa aktif jurusan Sistem Informasi – Universitas Gunadarma.
 
 Klik file berikut ini untuk melihat portfolio saya.
 
-👉 [Portfolio Adam Rizky Ananta](Portfolio_Adam_Rizky_Ananta.pdf)
+👉 [Portfolio Adam Rizky Ananta](./Portfolio_Adam_Rizky_Ananta.pdf)
 
 ## 📧 Contact
 
